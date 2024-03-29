@@ -13,3 +13,6 @@ MIT Deep Learning:
 
 Tutorial on GANs (Generative Adversarial Networks):
 [https://github.com/uclaacmai/Generative-Adversarial-Network-Tutorial](https://github.com/uclaacmai/Generative-Adversarial-Network-Tutorial)
+
+More Technical Diffusers Stuff From HuggingFace:
+[https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/diffusers_intro.ipynb](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/diffusers_intro.ipynb)
